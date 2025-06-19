@@ -8,7 +8,6 @@ export default defineConfig({
     react()
   
   ],
-
-  
+base:"/Poultry-Farm",
    
 })
